@@ -5,3 +5,5 @@ A collection of the data used in "Multilevel Alignment of Iliadic Texts" for con
 https://github.com/hmteditors/furman_OmegaOneTwelve/blob/master/folio-imageLinks.md
 
 http://folio2.furman.edu/ducat/
+
+http://ugarit.ialigner.com/tvtest.php
